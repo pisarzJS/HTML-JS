@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 Some content
 First steps
 Next steps
