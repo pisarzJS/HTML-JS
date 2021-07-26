@@ -1,5 +1,9 @@
 <!DOCTYPE html>
 <html>
+<head>
+<title>My title</title>
+</head>
+<body>
 Some content
 First steps
 Next steps
@@ -31,4 +35,5 @@ Another steps 25
 Another steps 26
 Another steps 27
 Another steps 28
+</body>
 </html>
